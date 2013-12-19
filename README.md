@@ -1,6 +1,8 @@
 mergedcallbacks
 ===============
 
+Link to blog about this: http://paulbeskow.com/2013/12/19/merged-callbacks-in-c-with-boostbind-and-boostfunction/ for more details on how it is actually achieved.
+
 Class for merging callbacks with the same signature in C++ using boost::bind and boost::function.
 
 Build: g++ -o main main.cpp MergedCallbacks.cpp
